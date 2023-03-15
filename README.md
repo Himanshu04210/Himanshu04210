@@ -23,7 +23,7 @@
 
 <p> <a href="https://www.linkedin.com/in/himanshu-sahu-bb4439246/"
 " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a \ 
-  <a href="https://Himanshu04210.github.io/" target="text-decoration:none">
+  <a href="https://himanshu04210.github.io/" target="text-decoration:none">
    <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 </p>
