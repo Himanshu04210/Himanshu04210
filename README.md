@@ -85,7 +85,8 @@
   
 <p align="center">
      <img alt="Himanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himanshu04210&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu04210&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu04210&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" /> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu04210&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&exclude_langs=python" />
 
  </p> 
  <br/>
