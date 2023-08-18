@@ -95,12 +95,14 @@
 <img alt="Himanshu's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Himanshu04210&theme=react&hide_border=false&include_all_commits=false&count_private=true" />
  
 <!--      <img alt="Himanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himanshu04210&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> -->
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu04210&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" /> 
 
-<!--  
+  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu04210&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&exclude_langs=python" />
 
- -->
+
+<!--
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu04210&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" /> 
+-->
 
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshu04210&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Himanshu" />
  </p> 
