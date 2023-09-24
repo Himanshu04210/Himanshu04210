@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Sahu</h1>
+<p align="center">Hi 👋, I'm Himanshu Sahu</p>
 <br/>
 
 
@@ -7,8 +7,8 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Software+developer;Java+Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
 </div>
 
-<h2>- Full Stack Web Developer skilled in Backend</h2>
-<h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
+<p>- Full Stack Web Developer skilled in Backend</p>
+<p>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </p>
 <img align="right" alt "Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
