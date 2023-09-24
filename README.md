@@ -4,7 +4,7 @@
 
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Java+Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Software+developer;Java+Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
 </div>
 
 <h2>- Full Stack Web Developer skilled in Backend</h2>
