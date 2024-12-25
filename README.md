@@ -19,7 +19,7 @@
 
 - 📫 Reach me at *himanshupoly@gmail.com**
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1bCcaQSDLKWTFjPxoZcjjc_jaepL6zw1f/view?usp=share_link)
+- 📄 Know more about me [Resume]([https://drive.google.com/file/d/1bCcaQSDLKWTFjPxoZcjjc_jaepL6zw1f/view?usp=share_link](https://drive.google.com/file/d/1OM8rVj5L00BOIeHASaU1YG0UjV5A5W4O/view?usp=sharing))
 
 - ⚡ Fun fact - *I love coding 🖊️*
 
