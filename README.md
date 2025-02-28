@@ -8,7 +8,8 @@
 </div>
 
 <p>- Full Stack Web Developer skilled in Backend</p>
-<p>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </p>
+<p>- Seeking a challenging software Engineer role to leverage my 2+ years of experience in Java Full Stack Web Development and
+<strong>passion for creating innovative solutions</strong> </p>
 <img align="right" alt "Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
